@@ -1,0 +1,1 @@
+npm install @mui/material@latest @mui/icons-material@latest react@latest react-dom@latest react-dnd@latest react-dnd-html5-backend@latest
